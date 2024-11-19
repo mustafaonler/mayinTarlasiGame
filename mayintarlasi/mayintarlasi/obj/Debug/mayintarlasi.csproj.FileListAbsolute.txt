@@ -1,0 +1,7 @@
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe.config
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.pdb
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csprojAssemblyReference.cache
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.exe
+C:\Users\Onler\source\repos\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.pdb
